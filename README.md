@@ -1,0 +1,1 @@
+This is a pretty old project. Don't expect it to make much sense, or to be able to run it without a lot of configuration!

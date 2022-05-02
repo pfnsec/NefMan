@@ -1,0 +1,13 @@
+*.json
+*.pyc
+*.swp
+*.swo
+*.swn
+*.ini
+*.egg-info
+build/
+dist/
+env/
+db/
+config/
+*/__pycache__/
